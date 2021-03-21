@@ -1,3 +1,12 @@
+aoTuV beta6.03 (2020) technical information
+
+This version is based on Xiph.org's libvorbis 1.3.7.
+The part related to sound quality is not changed from previous version.
+
+2021/03/20
+Aoyumi
+
+----------------------------------------------------------------------------
 aoTuV beta6.03 (2018) technical information
 
 This version is based on Xiph.org's libvorbis 1.3.6.
